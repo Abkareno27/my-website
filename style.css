@@ -246,7 +246,7 @@ footer a{
     .iicons{
         width: 7em;
     }
-    @media (max-width: 400px){
+    @media (max-width: 430px){
         header{
             padding: 8px 10px;
         }
